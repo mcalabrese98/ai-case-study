@@ -90,12 +90,12 @@ The business impact that Mason has had for clients is made quite evident. They b
 
 As you can tell, Mason is doing _quite_ the job in their sector. If I were to offer ANY advice, or provide sugesstions, the one thing I could suggest is: integrate some sort of service where they can promote the e-commerce plug-ins (such as the Pop-Up games) on Social media for an extra 5% discount! Imagine, the site you like has an "up to 20% off" discount wheel... if you could share this to, say, Facebook, not only are you promoting the discount to your friends who are looking for similar products, but you also get an extra 5% off just for sharing that. ONE CLICK! Extra 5% off. Do the Math. It's a no-brainer. Providing this extra tool could boost traffic to the website exponentially, and with the current solutions they offer, they could boost sales even further with their already proven methods. As we all know, more traffic = more opportunity to drive growth. Mason would most likely have to utilize social sharing technologies such as plugins, or sharing buttons from the respective social media sites. Tying that in with the e-commerce sites discount code/coupon pages could provide for a relatively easy change, yet return a hefty boost in AOV or RR. These technologies are appopriate for my solution because they are easy to integrate, provide the company with the opportunity to maximize traffic which in return can boost profits, and on-top of that, these sharing solutions are often welcomed by social media sites as it drives traffic to their site as well. It becomes a symbiotic relationship between both parties.
 
-1: https://www.crunchbase.com/organization/mason-d7aa
-2: https://www.linkedin.com/company/get-mason/about/ 
-3: (https://www.crunchbase.com/organization/mason-d7aa/technology)
-4: https://thetechportal.com/2022/10/27/mason-digital-stores-7-5-million-seed-funding/#google_vignette
-5: https://em360tech.com/tech-news/top-ten/top-10-ai-companies-re-shaping-world-retail
-6: https://getmason.io/merchandise/
-7: (https://www.crunchbase.com/organization/mason-d7aa)
-8: (https://wellfound.com/company/mason-io)
-9: https://thetechportal.com/2022/10/27/mason-digital-stores-7-5-million-seed-funding/
+1: https://www.crunchbase.com/organization/mason-d7aa  
+2: https://www.linkedin.com/company/get-mason/about/   
+3: https://www.crunchbase.com/organization/mason-d7aa/technology   
+4: https://thetechportal.com/2022/10/27/mason-digital-stores-7-5-million-seed-funding/#google_vignette  
+5: https://em360tech.com/tech-news/top-ten/top-10-ai-companies-re-shaping-world-retail  
+6: https://getmason.io/merchandise/  
+7: https://www.crunchbase.com/organization/mason-d7aa   
+8: https://wellfound.com/company/mason-io   
+9: https://thetechportal.com/2022/10/27/mason-digital-stores-7-5-million-seed-funding/  
